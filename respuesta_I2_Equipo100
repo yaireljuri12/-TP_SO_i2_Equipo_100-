@@ -1,6 +1,10 @@
 Yair El Juri
 Santino Duprat
 
-d)si 
-e) git clone , cd, git add, commit
+a) se debe configurar el repositorio original como remoto, descargar sus cambios, fusionarlos en la rama local y finalmente subir la actualización al fork en GitHub.
+b) si, es posible
+c) si
+d) si 
+e) git clone, cd, git add, git commit -m, git push, git fetch, git merge, git remote
+
 Yair El Juri , Santino Duprat
